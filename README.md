@@ -1,9 +1,7 @@
 # HTML/CSS - Google 1998 Project
-Bu repository'de Kodluyoruz.org ve Patika.dev işbirliğiyle, "Başlangıç Seviye Frontend Web Development Patikası" içerisinde bulunan "CSS" konusunun 2. ödevi olan "Google 1998" HTML projesini yaptım.
-
-Not: Google'ın tasarlandığı tablo formatında HTML ve Inline CSS kullanarak, Google'ın 1998 yılındaki sürümünü tasarladım.
+I designed the 1998 version of Google using HTML and Inline CSS in the table format Google designed.
 
 ![alt text](https://github.com/Axlope/html-google-1998/blob/master/css-google-homework.png)
 
-<p><a href="https://kodluyoruz.org/">kodluyoruz.org</a><p>
-<p><a href="https://www.patika.dev/">patika.dev</a><p>
+<p><a href="https://axlope.github.io/google-1998/">Axlope - Google 1998</a><p>
+
